@@ -3,8 +3,4 @@ Fundamentos de HTML
 
 nueva pagina HTML
 
-nuevas herramientas
-
-yujuu
-
-que paso alli
+my home page
